@@ -1,0 +1,18 @@
+[package]
+edition = "2021"
+name = "transcribe-rust"
+version = "0.1.0"
+
+[dependencies]
+async-stream = "*"
+aws-config = "*"
+aws-sdk-transcribestreaming = "*"
+bytes = "1"
+alsa = "0.6.0"
+alsa-sys = "0.3.1"
+cpal = "*"
+hound = "3.4.0"
+
+[dependencies.tokio]
+features = ["full"]
+version = "1"
