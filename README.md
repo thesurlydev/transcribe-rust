@@ -1,7 +1,7 @@
 
 # transcribe-rust
 
-This is an experimental project to capture live audio from a microphone and and transcribe it live.
+This is an experimental project to capture live audio from a microphone and and transcribe it.
 
 ## Requirements
 
@@ -17,7 +17,7 @@ sudo apt install librust-alsa-sys-dev
 
 
 ## Features
-* Read a `.wave` file
+* Read a `.wav` file
 * Capture audio from microphone (WIP)
 
 ## Notes
