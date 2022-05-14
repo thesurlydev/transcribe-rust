@@ -14,15 +14,13 @@ You may need to install the following dependencies:
 sudo apt install librust-alsa-sys-dev
 ```
 
-
-
 ## Features
 * Read a `.wav` file
 * Capture audio from microphone (WIP)
 
 ## Notes
 
-* If there's an issue with the transcription, try 
+* If there's an issue with the transcription, try increasing sample rate.
 
 ## References
 
